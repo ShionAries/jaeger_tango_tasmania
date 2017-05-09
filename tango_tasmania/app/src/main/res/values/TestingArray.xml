@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Opciones">
+        <item>Empleado</item>
+        <item>Vendedor</item>
+        <item>Champion</item>
+        <item>Aminoguana</item>
+    </string-array>
+</resources>
